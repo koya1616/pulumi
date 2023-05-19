@@ -1,6 +1,6 @@
 {
     "name": "vpc",
-    "main": "vpc.ts",
+    "main": "dynamo.ts",
     "devDependencies": {
         "@types/node": "^16"
     },
